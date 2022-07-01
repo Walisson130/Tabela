@@ -1,0 +1,123 @@
+th {
+   font-size: 13px;
+   font-weight: bold;
+   color: #999999;
+   text-align: center;
+   
+}
+
+table { 
+    border: 1px solid #dddddd; 
+    border-collapse: collapse;
+    width:60%;
+    height: 700px;
+    vertical-align: middle;
+    font-family: Arial;
+}
+
+td {
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+     
+}
+
+tr{
+Border: 1px solid #dddddd;
+}
+
+caption {
+    padding-top: 2px;
+    font-size: 10px;
+    text-align: left;
+    caption-side: bottom;
+    color: #8f8f8f;
+}
+div {
+    display: inline-block;
+    border-radius: 75%;
+}
+
+.a {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #003366;
+}
+.b{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #1398BE;
+}
+.c {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color:#DE9800;
+}
+.d {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #CCCCCC;
+}
+.e {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #c91b04;
+
+}
+.time {
+    font-size: 14px;
+    font-weight: bold;
+    color: #666666;
+    text-align: left;
+    padding-left: 10px;
+}
+.col{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+#pontos {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+#circulo1 {
+    width: 10px;
+    height: 10px;
+    background-color: #003366;
+    align-content: center;
+}
+#circulo2 {
+    width: 10px;
+    height: 10px;
+    background-color: #1398BE;
+    align-content: center;
+}
+#circulo3 {
+    width: 10px;
+    height: 10px;
+    background-color: #DE9800;
+    align-content: center;
+}
+#circulo4 {
+    width: 10px;
+    height: 10px;
+    background-color:  #c91b04;
+    align-content: center;
+}
+#cap1 {
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+}
+.divisao {
+    border-top: 2px solid ;
+    border-color: #CCCCCC;
+    border-bottom: none;
+
+}
